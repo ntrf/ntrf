@@ -6,6 +6,7 @@ I'm moving to an alternative solution. If you need to contact me look here:
 
 * [Website ntrf.xyz](http://ntrf.xyz)
 * [GitFlic](https://gitflic.ru/user/ntrf)
+* [YouTube](https://www.youtube.com/@ntrf-xyz)
 
 Note: this list is built in advance. Some of this stuff is not properly set up yet.
 
